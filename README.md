@@ -7,7 +7,7 @@ freefactsdk library is just wrapper around https://github.com/AmitGujar/freeFact
 ## Install
 
 ```
-npm install freefactsdk
+npm install free-facts
 ```
 
 ## Usage
